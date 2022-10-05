@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-> A full time student currently in my first year of the bachelor program informasjonsteknologi at OsloMet.
+> A full time student in my second year of the bachelor program informasjonsteknologi at OsloMet.
 
 ---
 
