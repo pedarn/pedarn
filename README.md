@@ -7,11 +7,7 @@
 
 ---
 
-### :technologist: About me :
 
-- :seedling: I'm learning about new concepts all the time
-- :telescope: Finding myself as a programmer
-- <span><img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="20"/> I'm currently invested in learning Go </span>
 
 ### :hammer_and_wrench: Things I have touched:
 
