@@ -2,7 +2,7 @@
   Hi there, I'm Peder
 </h1>
 
-> A full time student in my second year of the bachelor program informasjonsteknologi at OsloMet.
+> A full time student in my third year of the bachelor program informasjonsteknologi at OsloMet.
 
 ---
 
